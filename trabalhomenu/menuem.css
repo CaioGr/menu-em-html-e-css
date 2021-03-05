@@ -1,0 +1,110 @@
+body{
+    background-image:url(imgfundo.jpg)
+}
+
+*
+{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+ul
+{
+    background-color: #6b705c;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+ul li 
+{
+    list-style-type: none;
+    display: inline;
+    margin-right: 100px;
+}
+
+ul li a 
+{
+    color: #b7b7a4;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 25px;
+    
+}
+
+ul li a:hover 
+{
+    color: white;
+    transition: 1.5s;
+}
+
+.form
+{
+    margin-left: 380px;
+    margin-top: 250px;
+}
+
+.inpa
+{
+    font-size: 25px;
+    background-color: #555b6e;
+}
+
+.bott
+{
+    margin-top: 27px;
+    margin-left: 265px;
+    font-size: 20px;
+    background-color: #2b2d42;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    width: 120px;
+    height: 70px;
+    
+}
+
+.bott:hover
+{
+    color: #555b6e;
+    cursor: pointer;
+}
+
+.bott:active
+{
+    background-color: #555b6e;
+    color: white;
+}
+
+.h2
+{
+    color: black;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 225px;
+    background-color: #454343;
+    outline: none;
+    border: none;
+}
+
+.cl
+{
+    color: black;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 225px;
+    background-color: #454343;
+    outline: none;
+    border: none;
+}
+
+.men
+{
+    color: black;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 225px;
+    background-color: #454343;
+    outline: none;
+    border: none;
+}
+
